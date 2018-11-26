@@ -15,7 +15,7 @@
   },
   "production": {
     "use_env_variable": "JAWS_DB",
-    "dialect": "mysql",
-    "operatorsAliases": false
+    "operatorsAliases": false,
+    "dialect": "mysql"
   }
 }
